@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\nested switch\nested switch\bin\Debug\nested switch.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested switch\nested switch\bin\Debug\nested switch.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\nested switch\nested switch\obj\x86\Debug\nested switch.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested switch\nested switch\obj\x86\Debug\nested switch.pdb
+C:\Users\Tabish\Desktop\pf lec\nested switch\nested switch\obj\x86\Debug\nested switch.exe
+C:\Users\Tabish\Desktop\pf lec\nested switch\nested switch\obj\x86\Debug\nested switch.pdb
